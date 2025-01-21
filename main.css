@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Roboto';
+    font-family: "Roboto", serif;
 }
 
 header {
@@ -13,7 +13,7 @@ header {
     border-bottom: 16px solid #341f97;
     justify-content: center;
     text-transform: uppercase;
-    font-style: italic;
+    font-family: "Roboto", serif;
     
 }
 
